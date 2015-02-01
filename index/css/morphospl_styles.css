@@ -1,0 +1,691 @@
+body { font-family: Verdana; font-size: 13px; color: white; margin: 0; background-color: #569; }
+
+div.logo { height: 80px; background: url('skins/cellphone/logobg.png') repeat-x; }
+div.logo1 { float: left; height: 80px; width: 210px; background: url('skins/cellphone/logo.png') no-repeat; }
+div.loginbar { position: absolute; top: 4px; left: 120px; font-size: 11px; color: #228; }
+div.bar { margin: 8px 8px 8px 8px; }
+
+a { color: #AAF; }
+
+h5 {
+  margin: 0px;
+}
+
+h3 {
+  margin: 0px;
+}
+
+input.loginbar { 
+  border-left: 1px solid #448;
+  border-top: 1px solid #448;
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+  font-family: Verdana;
+  font-size: 11px;
+  background-color: #DDF;
+}
+
+input.login_btn {
+  position: relative;
+  left: 3px;
+  top: 3px;
+}
+
+a.loginbar {
+  color: #116;
+  text-decoration: none;
+}
+
+a:hover.loginbar {
+  background-color: #CCE;
+}
+
+div.rsslink {
+  font-size: 12px;
+  font-style: italic;
+  vertical-align: middle;
+  position: absolute;
+  top: 22px;
+  right: 8px;
+  color: #115;
+}
+
+div.main { margin: 8px; }
+
+div.newspager { text-align: center; margin-top: 28px; }
+
+div.news { position: relative; margin: 28px 0px 0px 0px; color: black; }
+div.news_m { position: relative; }
+div.newstitle { position: absolute; top: -29px; left: 26px; }
+div.newstext { }
+div.news_editor { text-align: center; }
+a.newstext { color: #115; }
+div.newsmetadata { font-size: 11px; padding-top: 5px; }
+
+
+/*====== Style w treści komentarzy, newsów, artykułów ======*/
+
+/*--- cytaty ---*/
+
+div.quote1 { 
+  font-style: italic; 
+  background-color: white;
+  color: black;
+  padding: 4px 0px 4px 10px;
+}
+
+div.quote2 { 
+  font-style: italic; 
+  background-color: white;
+  color: #555;
+  padding: 4px 0px 4px 10px;
+}
+
+div.quote3 { 
+  font-style: italic; 
+  background-color: white;
+  color: #999;
+  padding: 4px 0px 4px 10px;
+}
+
+/*--- używa się w podglądzie komentarza, do ukrycia cytatu 4 poziomu ---*/
+/*--- zanim zostanie usunięty przy dodawaniu komentarza              ---*/
+
+div.quotemax {
+  display: none;
+}
+
+ 
+/*--- podrozdział ---*/
+
+h3.article {
+  font-weight: bold;
+  font-size: 14px;
+  margin: 12px 0px 6px 0px;
+}
+
+/*--- kod ---*/
+
+pre {
+  font-family: "Andale Mono", "Courier New", monospace; 
+  border: 1px dashed #569;
+  padding: 3px;
+  margin: 8px 0px 8px 5px;
+  background-color: #E0E0FF;
+}
+
+/*--- tabelki ---*/
+
+table.text { border-color: black; border-style: solid; border-width: 1px 0px 0px 1px; }
+td.text_left { padding: 2px 3px; text-align: left; vertical-align: middle; border-color: black; border-style: solid; border-width: 0px 1px 1px 0px; }
+td.text_center { padding: 2px 3px; text-align: center; vertical-align: middle; border-color: black; border-style: solid; border-width: 0px 1px 1px 0px; }
+
+/*======= Style do tytułu newsa ======*/
+
+/*--- zbiorcza ramka tytułu ---*/
+
+div.newstitle {
+  position: absolute;
+  top: -16px;
+  left: 11px;
+}
+
+/*--- link, którym jest tytuł ---*/
+
+a.newstitle {
+  text-decoration: none;
+  color: white;
+}
+
+a:visited.newstitle {
+  color: white;
+}
+
+/*--- lewa strona ---*/
+
+div.newstitle_l {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 13px;
+  height: 23px;
+  background: url('skins/cellphone/newstitle_l.png') no-repeat;
+}
+
+/*--- prawa strona ---*/
+
+div.newstitle_r {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 13px;
+  height: 23px;
+  background: url('skins/cellphone/newstitle_r.png') no-repeat;
+}
+
+/*--- środek z tekstem ---*/
+
+div.newstitle_m {
+  margin: 0px 13px;
+  height: 23px;
+  color: white;
+  padding-top: 1px;
+  font-weight: bold;
+  font-size: 12px;
+  background: url('skins/cellphone/newstitle_m.png') repeat-x;
+}
+
+
+
+a.newsmeta { color: #115; }
+
+div.newsmeta {
+  position: absolute;
+  bottom: -27px;
+  right: 12px;
+}
+
+div.newsmeta_l {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 18px;
+  height: 22px;
+  background: url('skins/cellphone/newsmeta_bg_l.png') no-repeat;
+}
+
+div.newsmeta_r {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 18px;
+  height: 22px;
+  background: url('skins/cellphone/newsmeta_bg_r.png') no-repeat;
+}
+
+div.newsmeta_m {
+  margin: 0px 18px;
+  padding-top: 5px;
+  height: 22px;
+  color: #236;
+  font-family: Verdana;
+  font-size: 10px;
+  background: url('skins/cellphone/newsmeta_bg_m.png') repeat-x;
+}
+
+div.newsdate {}
+div.newsdate_l {}
+div.newsdate_m { font-style: italic; font-size: 11px; padding-bottom: 5px; }
+div.newsdate_r {}
+
+div.news_lt { 
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 12px;
+  height: 12px;
+  background: url('skins/cellphone/news_bg_lt.png') no-repeat;
+}
+
+div.news_tt {
+  height: 8px;
+  margin: 0px 12px;
+  background: url('skins/cellphone/news_bg_tt.png');
+}
+
+div.news_rt {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 12px;
+  height: 12px;
+  background: url('skins/cellphone/news_bg_rt.png') no-repeat;
+}
+
+div.news_ll {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 8px;
+  height: 100%;
+  background: url('skins/cellphone/news_bg_ll.png') repeat-y;
+}
+
+div.news_in {
+  font-size: 13px;
+  background-color: white;
+  margin: 0px 8px;
+  padding: 6px 0px 0px 0px;
+  overflow: auto;
+}
+
+div.news_rr {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 8px;
+  height: 100%;
+  background: url('skins/cellphone/news_bg_rr.png') repeat-y;
+}
+
+div.news_lb { 
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 12px;
+  height: 12px;
+  background: url('skins/cellphone/news_bg_lb.png') no-repeat;
+}
+
+div.news_bb {
+  height: 8px;
+  margin: 0px 12px;
+  background: url('skins/cellphone/news_bg_bb.png');
+}
+
+div.news_rb {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 12px;
+  height: 12px;
+  background: url('skins/cellphone/news_bg_rb.png') no-repeat;
+}
+
+/*--- Linki "Edytuj" i "Skasuj" ---*/
+
+span.admin_button {
+  text-decoration: underline;
+  color: #115;
+}
+
+
+/*===== komentarze użytkowników =====*/
+
+/*-- sekcja z przyciskiem "Skomentuj" --*/
+
+div.skomentuj {
+  margin-top: 12px;
+  margin-bottom: 18px;
+}
+
+/*-- główna sekcja komentarza --*/
+ 
+div.comment {
+  position: relative;
+  margin: 12px 0px;
+  color: black;
+}
+
+/*-- sekcja środkowa ramki (zawiera brzeg lewy i prawy oraz środek) --*/
+
+div.comment_m {
+  position: relative;
+}
+
+/*-- ramka, lewy górny róg --*/
+
+div.comment_lt { 
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 12px;
+  height: 12px;
+  background: url('skins/cellphone/comment_bg_lt.png') no-repeat;
+}
+
+/*-- ramka, górna krawędź --*/
+
+div.comment_tt {
+  height: 8px;
+  margin: 0px 12px;
+  background: url('skins/cellphone/comment_bg_tt.png');
+}
+
+/*-- ramka, prawy górny róg --*/
+
+div.comment_rt { 
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 12px;
+  height: 12px;
+  background: url('skins/cellphone/comment_bg_rt.png') no-repeat;
+}
+
+/*-- ramka, lewa krawędź --*/
+
+div.comment_ll {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 8px;
+  height: 100%;
+  background: url('skins/cellphone/comment_bg_ll.png') repeat-y;
+}
+
+/*-- środek, zawierający tekst --*/
+  
+div.comment_in {
+  background-color: white;
+  margin: 0px 8px;
+}
+
+/*-- ramka, prawa krawędź --*/
+
+div.comment_rr {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 8px;
+  height: 100%;
+  background: url('skins/cellphone/comment_bg_rr.png') repeat-y;
+}
+
+/*-- ramka, prawy dolny róg --*/
+
+div.comment_lb { 
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 12px;
+  height: 12px;
+  background: url('skins/cellphone/comment_bg_lb.png') no-repeat;
+}
+
+/*-- ramka, dolna krawędź --*/
+
+div.comment_bb {
+  height: 8px;
+  margin: 0px 12px;
+  background: url('skins/cellphone/comment_bg_bb.png');
+}
+
+/*-- ramka, prawy dolny róg --*/
+
+div.comment_rb {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 12px;
+  height: 12px;
+  background: url('skins/cellphone/comment_bg_rb.png') no-repeat;
+}
+
+/*-- numer komentarza --*/
+
+div.comm_id {
+  display: inline;
+  font-style: italic;
+  color: #569;
+  margin-right: 4px;
+}
+
+/*-- autor komentarza --*/
+
+div.comm_author
+{ 
+  display: inline;
+  font-weight: bold;
+}
+
+/*-- data komentarza -- */
+
+div.comm_date {
+  display: inline;
+  font-size: 12px;
+}
+
+/*-- tekst "w odpowiedzi na" --*/
+
+div.comm_inresp {
+  display: inline;
+  font-size: 12px;
+}
+
+/*-- tekst komentarza --*/
+
+div.comm_text {
+  padding: 4px 0px 4px 0px;
+}
+
+/*-- stopka, czyli "odpowiedz" --*/
+
+div.comm_footer {
+  font-size: 11px;
+}
+
+/*-- link "Edytuj" --*/
+
+span.editcomment {
+  color: #569;
+  text-decoration: underline;
+}
+
+/*-- styl linków w komentarzu --*/
+
+a.comm {
+  color: #569;
+}
+
+
+input.newsconsole { border: 1px solid black; width: 80%; font-family: Verdana; }
+textarea.newsconsole { border: 1px solid black; width: 80%; font-family: Verdana; }
+input.newsconsolebtn {}
+
+div.edithint {
+  font-size: 11px;
+}
+
+a.edithint {
+  color: #115;
+}
+
+ul.intext { margin: 0px; }
+ol.intext { margin: 0px; }
+li.intext {}
+
+
+div.addcomment { text-align: center; }
+textarea.addcomment { border: 2px solid #008; width: 80%; font-family: Verdana; font-size: 13px; }
+div.addcomment_btn { text-align: center; }
+
+div.chartable_news { text-align: center; margin: 12px; line-height: 22px; clear: both;}
+div.chartable_comment { text-align: center; margin-bottom: 8px; line-height: 36px; }
+
+span.znak { 
+  font-size: 14px; 
+  padding: 5px;
+  margin-left: 5px;
+  color: black;
+  background-color: #AAF; 
+  border: 1px solid #008;
+}
+
+img.bar {
+  border: none;
+}
+
+/*====== lista nowych newsów, artykułów, komentarzy ======*/
+
+/*--- cała tabela ---*/
+
+table.whatsnew {
+  margin-bottom: 8px;
+}
+
+/*--- nagłówki tabeli ---*/
+
+td.whatsnew_header {
+  font-size: 15px;
+  font-weight: bold;
+  padding: 10px 0px 6px 0px;
+}
+
+/*--- komórka tabeli z linkiem ---*/
+
+td.whatsnew_item {
+  padding: 1px 0px;
+}
+
+/*--- komórka tabeli z informacjami ---*/
+
+td.whatsnew_date {
+  text-align: right;
+  padding: 1px 0px 1px 20px;
+  font-size: 11px;
+}
+
+/*--- link do elementu nieprzeczytanego ---*/
+
+a.whatsnew_list {
+  text-decoration: none;
+  color: #C8BCFF;
+  background-color: #687AC0;
+  padding: 0px 2px;
+}
+
+/*--- link do elementu, po najechaniu myszką ---*/
+
+a:hover.whatsnew_list {
+  color: #EFEFFF;
+}
+
+/*--- link do odwiedzonego elementu ---*/
+
+a:visited.whatsnew_list {
+  background-color: #569;
+}
+
+
+
+/*====== obrazki wrzucane w newsa ======*/
+
+div.imgcntleft {
+  float: left;
+}
+
+div.imgleft {
+  float: left;
+  position: relative;
+  padding: 0px 5px 5px 0px;
+  margin: 0px;
+}
+
+img.imgleft {
+  vertical-align: top;
+}
+
+div.imgcenter {
+  overflow: auto;
+  height: auto;
+  text-align: center;
+}
+
+img.imgcenter {
+  vertical-align: top;
+}
+
+/*====== FORUM ======*/
+
+h3.forum {
+  margin: 15px 0px 0px 0px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+h5.forum {
+  font-weight: normal;
+  margin: 0px 0px 10px 0px;
+  font-style: italic;
+  font-size: 12px;
+}
+
+th.forum {
+  font-size: 10px;
+  font-style: italic;
+  text-align: center;
+  padding: 3px 20px 3px 0px;
+  color: #DDF;
+  background-color: #44517A;
+}
+
+td.forum {
+  padding: 0px 20px 0px 0px;
+}
+
+/* Style do wierszy z danym, robią zebrę na przemian. */
+
+td.fdata0 {
+  padding: 0px 20px 0px 2px;
+  background-color: #506091;
+}
+
+td.fdata1 {
+  padding: 0px 20px 0px 2px;
+  background-color: #4C5B89;
+}
+
+a.forum {
+  text-decoration: none;
+  color: #C8C8FF;
+}
+
+a:hover.forum {
+  color: white;
+}
+
+td.forumnewthread {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  border-bottom: 1px dotted #78B;
+}
+
+a.newforumthread {
+  text-decoration: none;
+  background-color: #78B;
+  border-left: 1px solid #9AD;
+  border-top: 1px solid #9AD;
+  border-right: 1px solid #236;
+  border-bottom: 1px solid #236;
+  color: #115;
+  padding: 1px 2px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+span.forumdate {
+  font-size: 10px;
+}
+
+/*====== Nagłówki w "co nowego" ======*/
+
+h3.whatsnew {
+  font-size: 15px;
+  font-weight; bold;
+  margin: 18px 0px 12px 0px;
+}
+
+/*====== tablica "ostatnio widziani" ======*/
+
+th.lastseen {
+  font-size: 10px;
+  font-style: italic;
+  text-align: center;
+  padding: 3px 20px 3px 0px;
+  color: #DDF;
+  background-color: #44517A;
+}
+
+/* Style do wierszy z danym, robią zebrę na przemian. */
+
+td.lsdata0 {
+  padding: 0px 20px 0px 2px;
+  background-color: #506091;
+}
+
+td.lsdata1 {
+  padding: 0px 20px 0px 2px;
+  background-color: #4C5B89;
+}

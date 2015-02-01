@@ -1,0 +1,428 @@
+@charset "utf-8";
+<style type="text/css">
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+	font-family: "Swis7' 21 LtCn BT";
+	font-size: 14px;
+	color: #E7E7E8;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	background-image: url(HOW.png);
+	text-decoration: none;
+}
+@font-face {
+	font-family: Swis721 LtCn BT;
+	src: url(/font/swisscl.ttf);
+}
+
+@font-face {
+	font-family: Swis721 BlkCn BT;
+	src: url(/font/swissck.ttf);
+}
+
+
+
+@font-face {
+ font-family: CalibriTTF;
+ src: url(/font/calibri.ttf);
+}
+
+.how_opis {
+ font-family: CalibriTTF;
+ font-size: 18px;
+ color: #AAAAAA;
+	text-align: center;
+	text-decoration: none;
+}
+
+
+
+
+.news_glowna {
+	font-family: "Swis721 BlkCn BT";
+	font-size: 14px;
+	color: #424242;
+	text-align: center;
+	text-decoration: none;
+}
+.NEWS_naglowek_glowna {
+	font-family: "Swis721 BlkCn BT";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #424242;
+	text-decoration: none;
+	text-align: center;
+}
+
+.tekst_gora {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	color: #e7e7e8;
+}
+.newsy {
+	font-family: "Swis721 LtCn BT";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #424242;
+	text-decoration: none;
+}
+.newsy_tekst {
+	font-family: "Swis721 LtCn BT";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #424242;
+	text-decoration: none;
+	margin-bottom: 5px;
+}
+.newsy_tekst_n {
+	font-family: "Swis721 BlkCn BT";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #424242;
+	text-decoration: none;
+	margin-bottom: 5px;
+}
+
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+	color: #000;
+}
+.naglowek_newsa3 {
+	font-family: "Swis721 BlkCn BT";
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #424242;
+	text-decoration: none;
+	text-align: center;
+	margin-bottom: 12px;
+	padding-top: 0px;
+	margin-top: 0px;
+	word-spacing: normal;
+	letter-spacing: normal;
+	text-indent: inherit;
+	text-justify: auto;
+	vertical-align: auto;
+}
+.naglowek_opisu {
+	font-family: "Swis721 BlkCn BT";
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #424242;
+	text-decoration: none;
+	text-align: left;
+	margin-bottom: 12px;
+	padding-top: 0px;
+	margin-top: 0px;
+	word-spacing: normal;
+	letter-spacing: normal;
+	text-indent: inherit;
+	text-justify: auto;
+	vertical-align: auto;
+}
+.opisy_prawa {
+	font-family: "Swis721 LtCn BT";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #424242;
+	text-align: right;
+	text-decoration: none;
+}
+.produkt {
+	font-family: "Swis721 BlkCn BT";
+	font-size: 24px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: capitalize;
+	color: #424242;
+}
+.rok {
+	font-family: "Swis721 LtCn BT";
+	font-size: 24px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #424242;
+}
+.cena {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #424242;
+}
+
+
+.top_haslo {
+	font-family: "Swis721 BlkCn BT";
+	font-size: 12px;
+	color: #505050;
+	text-align: center;
+}
+
+#apDiv1 {
+	margin-top: 330px;
+	float:right;
+	width:80px;
+	height:auto;
+	z-index:2;
+	left: auto;
+	top: auto;
+	float: right;
+	visibility: visible;
+	position: relative;
+}
+
+.tekst_info1 {
+	font-family: "Swis721 LtCn BT";
+	color: #737374;
+}
+.adres {
+	font-family: "Swis721 LtCn BT";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #424242;
+	text-decoration: none;
+}
+.tekst_1 {
+	font-family: "Swis721 LtCn BT";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #424242;
+	text-align: right;
+}
+.tech_naglowek {
+	font-family: "Swis721 BlkCn BT";
+	font-size: 16px;
+	color: #555555;
+	text-decoration: none;
+}
+.menu_bale {
+	font-family: "swis721 BlkCn BT";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #E7E7E8;
+	text-decoration: none;
+	text-align: center;
+}
+
+.RIGHT {
+	font-family: "Swis721 LtCn BT";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #424242;
+	text-decoration: none;
+	vertical-align: top;
+	alignment-baseline: middle;
+}
+
+.menu_bale_wybor {
+	font-family: "swis721 BlkCn BT";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #666;
+	text-decoration: none;
+	text-align: center;
+}
+.newsy_tekst a strong {
+
+}
+.newsy_bold {
+	font-family: "Swis721 BlkCn BT";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	text-decoration: none;
+	color: #424242;
+	text-align: left;
+}
+.cena_bold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+}
+._nieaktywne {
+	color: #CCC;}
+.NAGLOWEK_BLACK {
+	color: #231f20;
+	font-family: "Swis721 BlkCn BT";
+	font-size: 18px;
+
+}
+.opisy_prawa_strong {
+	font-family: "Swis721 BlkCn BT";
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #424242;
+	text-decoration: none;
+	text-align: right;
+}
+
+
+
+
+
+
+.main_menu {
+	font-family: "Swis721 BlkCn BT";
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: capitalize;
+	color: #E7E7E8;
+}
+
+A.menu:link {color: #E7E7E8;}
+A.menu:visited {color: #E7E7E8;}
+A.menu:hover {color: #424242;}
+A.menu:active {color: #424242;}
+
+.logo {
+	font-family: "Swis721 BlkCn BT";
+	font-size: 34px;
+	letter-spacing: 3pt;
+	
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: capitalize;
+	color: #E7E7E8;
+}
+
+.logo_copyright {
+	font-family: "Swis721 LtCn BT";
+	font-size: 24px;
+	letter-spacing: 3pt;
+	
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: capitalize;
+	color: #E7E7E8;
+}
+.logo_1 {
+	font-family: "Swis721 BlkCn BT";
+	font-size: 18px;
+	letter-spacing: 0pt;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #E7E7E8;
+}
+.logo_2 {
+	font-family: "Swis721 BlkCn BT";
+	font-size: 12px;
+	letter-spacing: 0pt;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #424242;
+}
+
+
+
+textarea.editor_php { border: 0px solid #DDDDDD; background-color: #F3F3F3; width: 100%; font-family: courier new; font-size: 12px; }
+
+.apply_bt { font-family: Swis721 BlkCn BT; font-size: 12px; color: #505050; text-align: center;}
+
+
+td.dashed_menu {border: dashed; border-width: 1px; border-color: #777777; background-color:#E3E3E3;}
+td.dashed_light {border: dashed; border-width: 1px; border-color: #777777; background-color:#F3F3F3;}
+td.dashed_bright {border: dashed; border-width: 1px; border-color: #777777; background-color:#ECECEC;}
+td.database_foot {background-image: url(/images/foot_tlo.png);}
+
+</style>

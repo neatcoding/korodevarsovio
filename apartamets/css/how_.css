@@ -1,0 +1,61 @@
+@charset "utf-8";
+<style type="text/css">
+
+
+@font-face {
+ font-family: CalibriTTF;
+ src: url(/font/calibri.ttf);
+}
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+	font-family: CalibriTTF;
+	font-size: 10px;
+	color: #0885BF;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	background-image: url(HOW.png);
+	text-decoration: none;
+}
+
+
+
+
+
+.how_opis {
+ font-family: CalibriTTF;
+ font-size: 18px;
+ color: #AAAAAA;
+text-align: center;
+text-decoration: none;
+}
+
+.how_body {
+ font-family: CalibriTTF;
+ font-size: 18px;
+ color: #343434;
+text-align: center;
+text-decoration: none;
+}
+
+#Layer1 {
+	
+	z-index:20;
+}
+
+
+#Layer2 {
+	z-index:-1;
+
+}
+
+
+
+</style>
