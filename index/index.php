@@ -7,19 +7,6 @@
 <link rel="stylesheet" text="text/css" href="css/yieldplanet.css">
 
 <script language="javascript">
-<!-- hide script from old browsers
-
-//detect browser://
-//browserName = navigator.appName;
-//browserVer = parseInt(navigator.appVersion);
-//if (browserName == "Netscape" && browserVer >= 3) browserVer = "1";
-//else if (browserName == "Microsoft Internet Explorer" && browserVer == 4) browserVer = "1";
-//else browserVer = "2";
-browserVer = "1";
-
-
-//preload images:
-if (browserVer == 1) {
 a1 = new Image(300,283);
 a1.src = "img/solidarnosci.png";
 a2 = new Image(300,283);
@@ -57,16 +44,11 @@ g1.src = "img/moniuszki.png";
 g2 = new Image(300,283);
 g2.src = "img/moniuszki_color.png";
 
-}
-
-
 //image swapping function:
 function hiLite(imgDocID, imgObjName, comment) {
-if (browserVer == 1) {
-document.images[imgDocID].src = eval(imgObjName + ".src");
-window.status = comment; return true;
-}}
-//end hiding -->
+    document.images[imgDocID].src = eval(imgObjName + ".src");
+    window.status = comment; return true;
+}
 </script>
 
 </head>
@@ -87,9 +69,9 @@ window.status = comment; return true;
 <td colspan="6">
 
 <img src="img/transparent_02.png" alt="" height="30" border="0" width="1096">
-  <a href="index.php" onmouseover="hiLite('c','c2','Your Comment Here')" onmouseout="hiLite('c','c1','')"><img name="c" src="img/flags/polska_gray.png" height="21" border="0" width="30"></a>
-  <a href="index_es.php" onmouseover="hiLite('d','d2','Your Comment Here')" onmouseout="hiLite('d','d1','')"><img name="d" src="img/flags/espana_gray.png" height="21" border="0" width="30"></a>
-  <a href="index_en.php" onmouseover="hiLite('e','e2','Your Comment Here')" onmouseout="hiLite('e','e1','')"><img name="e" src="img/flags/united_kingdom_gray.png" height="21" border="0" width="30"></a>
+  <a href="." onmouseover="hiLite('c','c2','')" onmouseout="hiLite('c','c1','')"><img name="c" src="img/flags/polska_gray.png" height="21" border="0" width="30"></a>
+  <a href="./es" onmouseover="hiLite('d','d2','')" onmouseout="hiLite('d','d1','')"><img name="d" src="img/flags/espana_gray.png" height="21" border="0" width="30"></a>
+  <a href="./en" onmouseover="hiLite('e','e2','')" onmouseout="hiLite('e','e1','')"><img name="e" src="img/flags/united_kingdom_gray.png" height="21" border="0" width="30"></a>
 </td>
 </tr>
 <tr>
@@ -572,13 +554,13 @@ window.status = comment; return true;
 
 <tr><td colspan="7"><img src="img/drop_shadow_a_top_l.png" alt="" height="10" border="0" width="22"><img src="img/drop_shadow_a.png" alt="" height="10" border="0" width="1120"><img src="img/drop_shadow_a_top_r.png" alt="" height="10" border="0" width="22"></td></tr>
 <tr>
-<td> <a href="solidarnosc.html" onmouseover="hiLite('a','a2','Your Comment Here')" onmouseout="hiLite('a','a1','')"> <img name="a" src="img/solidarnosci.png" alt="" height="255" border="0" width="270"></a>  </td>
+<td> <a href="solidarnosc.html" onmouseover="hiLite('a','a2','')" onmouseout="hiLite('a','a1','')"> <img name="a" src="img/solidarnosci.png" alt="" height="255" border="0" width="270"></a>  </td>
 <td> <img src="img/transparent_02.png" alt="" height="255" border="0" width="20"> </td>
-<td><a href="chmielna.html" onmouseover="hiLite('b','b2','Your Comment Here')" onmouseout="hiLite('b','b1','')"> <img name="b" src="img/chmielna.png" alt="" height="255" border="0" width="270"> </a></td>
+<td><a href="chmielna.html" onmouseover="hiLite('b','b2','')" onmouseout="hiLite('b','b1','')"> <img name="b" src="img/chmielna.png" alt="" height="255" border="0" width="270"> </a></td>
 <td> <img src="img/transparent_02.png" alt="" height="255" border="0" width="20"> </td>
-<td><a href="moniuszki.html" onmouseover="hiLite('g','g2','Your Comment Here')" onmouseout="hiLite('g','g1','')"> <img name="g" src="img/moniuszki.png" alt="" height="255" border="0" width="270"> </a></td>
+<td><a href="moniuszki.html" onmouseover="hiLite('g','g2','')" onmouseout="hiLite('g','g1','')"> <img name="g" src="img/moniuszki.png" alt="" height="255" border="0" width="270"> </a></td>
 <td> <img src="img/transparent_02.png" alt="" height="255" border="0" width="20"> </td>
-<td><a href="ciasna.html" onmouseover="hiLite('f','f2','Your Comment Here')" onmouseout="hiLite('f','f1','')"> <img name="f" src="img/ciasna.png" alt="" height="255" border="0" width="270"> </a></td>
+<td><a href="ciasna.html" onmouseover="hiLite('f','f2','')" onmouseout="hiLite('f','f1','')"> <img name="f" src="img/ciasna.png" alt="" height="255" border="0" width="270"> </a></td>
 </tr>
 
 <tr><td colspan="7"><img src="img/drop_shadow_bottom_l.png" alt="" height="22" border="0" width="20"><img src="img/drop_shadow.png" alt="" height="22" border="0" width="1124"><img src="img/drop_shadow_bottom_r.png" alt="" height="22" border="0" width="20"></td></tr>
