@@ -8,7 +8,7 @@
 
 
 
-	<title>Heart of Warsaw - Moniuszki 10</title>
+	<title>Heart of Warsaw - Ciasna 10</title>
 
 	<meta charset="utf-8">
 	<meta name="keywords" content="" />
@@ -89,7 +89,7 @@
 
                 <ul id="fixed-nav">
 
-                   <li><a href="#">Moniuszki 10</a></li>
+                   <li><a href="#">Ciasna 10</a></li>
 
                     <li class="current"><a href="#about">Apartament</a></li>
 
@@ -144,7 +144,7 @@
 
     	<h2>Wyposażenie</h2>
 
-        <p>Do państwa dyspozycji oddajemy kompletnie wyposażone apartamenty.</p>
+        <p>W apartamencie znajdują się 2 pojedyncze łóżka, wyposażony aneks kuchenny, łazienka z umywalką, WC i prysznicem. Apartament jest wyposażony w telewizor z wejściem usb oraz internet bezprzewodowy. </p>
 
     </div><!-- end section -->
 
@@ -168,7 +168,7 @@
 
     	<h2>Lokalizacja</h2>
 
-        <p>Tuż obok znajduje się stacja metra „Świętokrzyska” oraz kilka przystanków autobusowych i tramwajowych. </p>
+        <p> odległości ok. 200 metrów znajduje się przystanek, do którego dojeżdża bezpośredni autobus z Dworca Centralnego (przystanek Franciszkańska, linia 227). Do najbliższej stacji metra (Ratusz Arsenał), można dotrzeć w 15 minut pieszo. </p>
 
     </div><!-- end section -->
 
@@ -179,16 +179,15 @@
 <div class="joosa features2">
 <div class="container">
 
-	<div class="left"><img src="../images/moniuszki1.jpg" alt="" /></div><!-- end left -->
+	<div class="left"><img src="../images/ciasna1.jpg" alt="" /></div><!-- end left -->
 
     <div class="right">
 
-        <h2>Moniuszki 10
+        <h2>Ciasna 10
 		<strong>Apartamnent</strong></h2>
 
-        <p>Moniuszki 10 to 2-pokojowy apartament, położony na 8. piętrze budynku z windą, w ścisłym centrum Warszawy, niemal u zbiegu ulic Marszałkowskiej i Świętokrzyskiej.
-Apartament posiada dwa podwójne łóżka (jedno z nich to rozkładana kanapa widoczna na zdjęciach), i może pomieścić do czterech osób. Wyposażona kuchnia - meble kuchenne, lodówka, zmywarka, kuchnia z piekarnikiem, sztućce, naczynia, czajnik. Telewizor LCD z wejściem USB, internet z WiFi. Łazienka z WC, wyposażona w wannę i pralkę.</p><br />
- <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-moniuszki-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=3" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a><br />
+        <p>Ciasna 10 to wygodny apartament typu studio, idealny dla 1 lub 2 osób, położony na 1. piętrze niewielkiego budynku w najbliższej okolicy Starego Miasta, dobrze skomunikowany z innymi częściami Warszawy. </p><br />
+ <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-ciasna-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=4" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a><br />
 
     </div><!-- end right -->
 
@@ -226,41 +225,24 @@ Apartament posiada dwa podwójne łóżka (jedno z nich to rozkładana kanapa wi
 
 
         <div class="portfolioContainer">
-
-            <div class="monius">
-                <a class="fancybox" href="../images/moniuszki/1.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/1.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
+        <div class="ciasna">
+                <a class="fancybox" href="../images/ciasna/1.jpg" data-fancybox-group="gallery" title="Ciasna 10"><div class="imgWrap"><img src="../images/ciasna/1.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Ciasna 10</h3></div></a>
             </div>
 
-<div class="monius">
-                <a class="fancybox" href="../images/moniuszki/2.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/2.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
+<div class="ciasna">
+                <a class="fancybox" href="../images/ciasna/2.jpg" data-fancybox-group="gallery" title="Ciasna 10"><div class="imgWrap"><img src="../images/ciasna/2.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Ciasna 10</h3></div></a>
             </div>
 
-<div class="monius">
-                <a class="fancybox" href="../images/moniuszki/3.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/3.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
+<div class="ciasna">
+                <a class="fancybox" href="../images/ciasna/3.jpg" data-fancybox-group="gallery" title="Ciasna 10"><div class="imgWrap"><img src="../images/ciasna/3.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Ciasna 10</h3></div></a>
             </div>
 
-<div class="monius">
-                <a class="fancybox" href="../images/moniuszki/4.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/4.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
+<div class="ciasna">
+                <a class="fancybox" href="../images/ciasna/4.jpg" data-fancybox-group="gallery" title="Ciasna 10"><div class="imgWrap"><img src="../images/ciasna/4.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Ciasna 10</h3></div></a>
             </div>
 
-<div class="monius">
-                <a class="fancybox" href="../images/moniuszki/5.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/5.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
-            </div>
-
-<div class="monius">
-                <a class="fancybox" href="../images/moniuszki/6.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/6.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
-            </div>
-
-<div class="monius">
-                <a class="fancybox" href="../images/moniuszki/7.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/7.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
-            </div>
-
-<div class="monius">
-                <a class="fancybox" href="../images/moniuszki/8.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/8.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
-            </div>
-
-<div class="monius">
-                <a class="fancybox" href="../images/moniuszki/9.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/9.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
+<div class="ciasna">
+                <a class="fancybox" href="../images/ciasna/5.jpg" data-fancybox-group="gallery" title="Ciasna 10"><div class="imgWrap"><img src="../images/ciasna/5.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Ciasna 10</h3></div></a>
             </div>
 
 
@@ -332,16 +314,16 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
         <div class="one_fourth last">
 
-        	<img src="../images/ciasna.jpg" alt="" />
+        	<img src="../images/moniuszki.jpg" alt="" />
 
-            <h4>Ciasna 10</em></h4>
+            <h4>Moniuszki 10</h4>
 
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-ciasna-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=4" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-moniuszki-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=3" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a></li>
 			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zobacz</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
-            <p>Ciasna 10 to wygodny apartament typu studio, idealny dla 1 lub 2 osób, położony na 1. piętrze niewielkiego budynku w najbliższej okolicy Starego Miasta, dobrze skomunikowany z innymi częściami Warszawy.</p>
+            <p>Moniuszki 10 to 2-pokojowy apartament, położony na 8. piętrze budynku z windą, w ścisłym centrum Warszawy, niemal u zbiegu ulic Marszałkowskiej i Świętokrzyskiej. Tuż obok znajduje się stacja metra „Świętokrzyska”.</p>
 
         </div><!-- end section -->
 
@@ -394,7 +376,7 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
                 	<div class="map">
 
-                    	<iframe class="google-map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2443.468186650287!2d21.0099469!3d52.234879199999995!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc8b272b1f51%3A0x70aa9d5945c8b779!2sStanis%C5%82awa+Moniuszki+10%2C+Warszawa!5e0!3m2!1spl!2spl!4v1415030836288" width="267" height="200" frameborder="0" style="border:0" width="267" height="200" frameborder="0" style="border:0" width="267" height="200" frameborder="0" style="border:0"></iframe><br /><small><a href="https://www.google.pl/maps/place/Stanis%C5%82awa+Moniuszki+10,+Warszawa/@52.2348792,21.0099469,17z/data=!3m1!4b1!4m2!3m1!1s0x471ecc8b272b1f51:0x70aa9d5945c8b779?hl=pl">Zobacz na mapie</a></small>
+                    	<iframe class="google-map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4885.011849589327!2d21.006237045534846!3d52.25235730044701!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc704ba55b8d%3A0xbb4b59719b96e1ca!2sCiasna+10%2C+Warszawa!5e0!3m2!1spl!2spl!4v1415031647389" width="267" height="200" frameborder="0" style="border:0" width="267" height="200" frameborder="0" style="border:0" width="267" height="200" frameborder="0" style="border:0"></iframe><br /><small><a href="https://www.google.pl/maps/place/Ciasna+10,+Warszawa/@52.2523573,21.006237,16z/data=!4m2!3m1!1s0x471ecc704ba55b8d:0xbb4b59719b96e1ca?hl=pl">Zobacz na mapie</a></small>
 
                     </div>
 
@@ -410,28 +392,11 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
         	<h1>Cennik</h1>
 
 
- <strong>Przy rezerwacji na 2 dni:</strong>
+<li> min. 2 dni - 220 PLN/dzień</li>
 
-  <li>1-2 osoby 220 PLN/dzień</li>
+ <li> min. 3 dni - 190 PLN/dzień</li>
 
-  <li>3-4 osoby 260 PLN/dzień</li>
-
-
-
- <strong> Przy rezerwacji na min. 3 dni:</strong>
-
- <li> 1-2 osoby 190 PLN/dzień</li>
-
- <li> 3-4 osoby 230 PLN/dzień</li>
-
-
-
- <strong> Przy rezerwacji na 7 dni i powyżej:</strong>
-
- <li> 1-2 osoby 160 PLN/dzień</li>
-
-  <li>3-4 osoby 200 PLN/dzień</li>
-
+ <li> min. 7 dni - 160 PLN/dzień</li>
 
         </div>
 
@@ -442,7 +407,7 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
 <div class="copyright_info">
 
-	Copyright © 2014 Heart Of Warsow. All rights reserved.<br>  <a href="../moniuszki.html"><img src="../images/polska.png"/>	 <a href="../esp/moniuszki.html"><img src="../images/espana.png"/></a> <a href="#"><img src="../images/uk.png"/>
+	Copyright © 2014 Heart Of Warsow. All rights reserved.<br>  <a href="../ciasna.html"><img src="../images/polska.png"/>	 <a href="../esp/ciasna.html"><img src="../images/espana.png"/></a> <a href="#"><img src="../images/uk.png"/>
 
 </div><!-- end copyright info -->
 
@@ -454,4 +419,4 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
 </div>
 
-<?php include('partials/footer.php'); ?>
+<?php include('../partials/footer.php'); ?>

@@ -7,14 +7,15 @@
 <head>
 
 
-	<title>Heart of Warsaw - Solidarnosci 101</title>
+
+	<title>Heart of Warsaw - Chmielna 6</title>
 
 	<meta charset="utf-8">
 	<meta name="keywords" content="" />
 	<meta name="description" content="" />
 
     <!-- Favicon -->
-	<link rel="shortcut icon" href="images/favicon.ico">
+	<link rel="shortcut icon" href="../images/favicon.ico">
 
     <!-- this styles only adds some repairs on idevices  -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -88,7 +89,7 @@
 
                 <ul id="fixed-nav">
 
-                   <li><a href="#">Solidarności 101</a></li>
+                   <li><a href="#">Chmielna 6</a></li>
 
                     <li class="current"><a href="#about">Apartament</a></li>
 
@@ -155,7 +156,7 @@
 
     	<h2>Rozrywka</h2>
 
-        <p> W najbliższej okolicy są między innymi 2 kina (przy czym jedno z bardzo ciekawym repertuarem), oraz teatr.</p>
+        <p> W okolicy liczne restauracje, kawiarnie, kluby, galerie sztuki, sklepy. Atrakcje turystyczne, zarówno te stereotypowe jak i te zupełnie niesztampowe, w zasięgu ręki.</p>
 
     </div><!-- end section -->
 
@@ -167,7 +168,7 @@
 
     	<h2>Lokalizacja</h2>
 
-        <p>Apartament świetnie skomunikowany z innymi częściami miasta. Poza metrem, do wyboru jest bardzo dużo autobusów i tramwajów, które odjeżdżają z Placu Bankowego lub z Al. Jana Pawła II (ok. 300 m).</p>
+        <p>Apartament świetnie skomunikowany z innymi częściami miasta, znajduje się u zbiegu ulic Chmielnej i Nowego Światu.</p>
 
     </div><!-- end section -->
 
@@ -178,16 +179,16 @@
 <div class="joosa features2">
 <div class="container">
 
-	<div class="left"><img src="images/solidarnosci1.jpg" alt="" /></div><!-- end left -->
+	<div class="left"><img src="../images/chmielna1.jpg" alt="" /></div><!-- end left -->
 
     <div class="right">
 
-        <h2>Solidarności 101
+        <h2>Chmielna 6
 		<strong>Apartamnent</strong></h2>
 
-        <p>Solidarności 101 to wygodny apartament typu studio, idealny dla 1 lub 2 osób, usytuowany na 2. piętrze budynku wyposażonego
-w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacji metra Ratusz Arsenał i około 10 minut pieszo od Starego Miasta. W apartamencie znajdują się 2 pojedyncze łóżka, niewielka acz wyposażona i umeblowana kuchnia, łazienka z wanną, telewizor z wejściem usb podłączony do telewizji kablowej, internet bezprzewodowy (wliczony w cenę). Zapewniamy świeżą pościel, ręczniki oraz mydło.</p><br />
- <a href="http://www.booking.com/hotel/pl/apartament-solidarnosci-101.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=4010567558;srpos=6" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a><br />
+        <p>Chmielna 6 to wygodny, 2-pokojowy apartament o powierzchni 56 m2, usytuowany na 3. piętrze (bez windy) przedwojennej kamienicy, w jednej z najbardziej prestiżowych części warszawskiego Śródmieścia.
+		Apartament idealny dla 4 osób - 1 podwójne i 2 pojedyncze łóżka. Wyposażona kuchnia - meble kuchenne, lodówka, kuchnia z piekarnikiem, sztućce, naczynia, czajnik. Tv kablowa, internet z WiFi. W łazience kabina prysznicowa. Apartament wyposażony w 2 toalety. Zapewniamy mydło, świeżą pościel i ręczniki. Okna wychodzą na podwórko, więc, mimo lokalizacji w miejscu pełnym życia, jest cicho i spokojnie.</p><br />
+ <a href="http://www.booking.com/hotel/pl/apartament-chmielna-6.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=2" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a><br />
 
     </div><!-- end right -->
 
@@ -216,7 +217,7 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
     	<div class="portfolio_page">
 
-		<h1>Galeria Solidarności 101</strong>
+		<h1>Galeria Chmielna 6</strong>
         <br />
         </h1>
 
@@ -226,40 +227,40 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
         <div class="portfolioContainer">
 
-            <div class="solidar">
-                <a class="fancybox" href="images/solidarnosci/1.jpg" data-fancybox-group="gallery" title="Solidarności 101"><div class="imgWrap"><img src="images/solidarnosci/1.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Solidarności 101</h3></div></a>
+            <div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/1.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/1.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
-            <div class="solidar">
-                <a class="fancybox" href="images/solidarnosci/2.jpg" data-fancybox-group="gallery" title="Solidarności 101"><div class="imgWrap"><img src="images/solidarnosci/2.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Solidarności 101</h3></div></a>
+<div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/2.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/2.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
-            <div class="solidar">
-                <a class="fancybox" href="images/solidarnosci/3.jpg" data-fancybox-group="gallery" title="Solidarności 101"><div class="imgWrap"><img src="images/solidarnosci/3.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Solidarności 101</h3></div></a>
+<div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/3.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/3.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
-            <div class="solidar">
-                <a class="fancybox" href="images/solidarnosci/4.jpg" data-fancybox-group="gallery" title="Solidarności 101"><div class="imgWrap"><img src="images/solidarnosci/4.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Solidarności 101</h3></div></a>
+<div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/4.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/4.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
-            <div class="solidar">
-                <a class="fancybox" href="images/solidarnosci/5.jpg" data-fancybox-group="gallery" title="Solidarności 101"><div class="imgWrap"><img src="images/solidarnosci/5.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Solidarności 101</h3></div></a>
+<div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/5.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/5.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
-            <div class="solidar">
-                <a class="fancybox" href="images/solidarnosci/6.jpg" data-fancybox-group="gallery" title="Solidarności 101"><div class="imgWrap"><img src="images/solidarnosci/6.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Solidarności 101</h3></div></a>
+<div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/6.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/6.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
-            <div class="solidar">
-                <a class="fancybox" href="images/solidarnosci/7.jpg" data-fancybox-group="gallery" title="Solidarności 101"><div class="imgWrap"><img src="images/solidarnosci/7.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Solidarności 101</h3></div></a>
+<div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/7.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/7.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
-            <div class="solidar">
-                <a class="fancybox" href="images/solidarnosci/8.jpg" data-fancybox-group="gallery" title="Solidarności 101"><div class="imgWrap"><img src="images/solidarnosci/8.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Solidarności 101</h3></div></a>
+<div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/8.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/8.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
-            <div class="solidar">
-                <a class="fancybox" href="images/solidarnosci/9.jpg" data-fancybox-group="gallery" title="Solidarności 101"><div class="imgWrap"><img src="images/solidarnosci/9.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Solidarności 101</h3></div></a>
+<div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/9.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/9.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
 
@@ -287,42 +288,44 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
         <div class="one_fourth">
 
-        	<img src="images/drewniana.jpg" alt="" />
+        	<img src="../images/drewniana.jpg" alt="" />
 
             <h4>Drewniana 7</em></h4>
 
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-drewniana-7.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=5" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a></li>
-			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zobacz</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-drewniana-7.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=5" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a></li>
+			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; ver</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
-            <p>Drewniana 7 to wygodny apartament typu studio, idealny dla 1,2 lub 3osób, położony na 1. piętrze kamienicy w dzielnicy Powiśle w najbliższej okolicy Starego Miasta, dobrze skomunikowany z miastem.</p>
+            <p>Drewniana 7 to wygodny apartament typu studio, idealny dla 1,2 lub 3osób, położony na 1. piętrze kamienicy w dzielnicy Powiśle w najbliższej okolicy Starego Miasta, dobrze skomunikowany z innymi częściami Warszawy.</p>
 
         </div><!-- end section -->
 
         <div class="one_fourth">
 
-        	<img src="images/chmielna.jpg" alt="" />
+        	<img src="../images/solidarnosci.jpg" alt="" />
 
-            <h4>Chmielna 6</em></h4>
+            <h4>Solidarności 101</h4>
+
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/apartament-chmielna-6.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=2" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a></li>
-			   <li> <a href="chmielna.html" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zobacz</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/apartament-solidarnosci-101.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=4010567558;srpos=6" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a></li>
+			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; ver</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
-            <p>Chmielna 6 to wygodny, 2-pokojowy apartament o powierzchni 56 m2, usytuowany na 3. piętrze (bez windy) przedwojennej kamienicy, w jednej z najbardziej prestiżowych części warszawskiego Śródmieścia.</p>
+            <p>Solidarności 101 to wygodny apartament typu studio, idealny dla 1 lub 2 osób, usytuowany na 2. piętrze budynku wyposażonego
+w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacji metra Ratusz Arsenał.</p>
 
         </div><!-- end section -->
 
         <div class="one_fourth">
 
-        	<img src="images/moniuszki.jpg" alt="" />
+        	<img src="../images/moniuszki.jpg" alt="" />
 
             <h4>Moniuszki 10</h4>
 
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-moniuszki-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=3" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a></li>
-			   <li> <a href="moniuszki.html" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zobacz</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-moniuszki-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=3" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a></li>
+			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; ver</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
             <p>Moniuszki 10 to 2-pokojowy apartament, położony na 8. piętrze budynku z windą, w ścisłym centrum Warszawy, niemal u zbiegu ulic Marszałkowskiej i Świętokrzyskiej. Tuż obok znajduje się stacja metra „Świętokrzyska”.</p>
@@ -331,13 +334,13 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
         <div class="one_fourth last">
 
-        	<img src="images/ciasna.jpg" alt="" />
+        	<img src="../images/ciasna.jpg" alt="" />
 
             <h4>Ciasna 10</em></h4>
 
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-ciasna-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=4" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a></li>
-			   <li> <a href="ciasna.html" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zobacz</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-ciasna-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=4" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a></li>
+			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; ver</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
             <p>Ciasna 10 to wygodny apartament typu studio, idealny dla 1 lub 2 osób, położony na 1. piętrze niewielkiego budynku w najbliższej okolicy Starego Miasta, dobrze skomunikowany z innymi częściami Warszawy.</p>
@@ -393,7 +396,7 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
                 	<div class="map">
 
-                    	<iframe class="google-map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2443.035975706876!2d20.9968512!3d52.2427302!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc7d03672729%3A0x2849f46a2e4b1ca5!2saleja+Solidarno%C5%9Bci+101%2C+Warszawa!5e0!3m2!1spl!2spl!4v1415027543693" width="267" height="200" frameborder="0" style="border:0"></iframe><br /><small><a href="https://www.google.pl/maps/place/aleja+Solidarno%C5%9Bci+101,+Warszawa/@52.2427302,20.9968512,17z/data=!3m1!4b1!4m2!3m1!1s0x471ecc7d03672729:0x2849f46a2e4b1ca5?hl=pl">Zobacz na mapie</a></small>
+                    	<iframe class="google-map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2443.565286042944!2d21.0180503!3d52.2331153!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471eccf42dd7f65f%3A0x5beebe5b65d41dc7!2sChmielna+6%2C+Warszawa!5e0!3m2!1spl!2spl!4v1415028342922" width="267" height="200" frameborder="0" style="border:0" width="267" height="200" frameborder="0" style="border:0"></iframe><br /><small><a href="https://www.google.pl/maps/place/Chmielna+6,+Warszawa/@52.2331153,21.0180503,17z/data=!3m1!4b1!4m2!3m1!1s0x471eccf42dd7f65f:0x5beebe5b65d41dc7?hl=pl">Zobacz na mapie</a></small>
 
                     </div>
 
@@ -409,16 +412,27 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
         	<h1>Cennik</h1>
 
 
-                <li>2 dni - 180 PLN/dzień</li>
+                <strong>Przy rezerwacji na 2 dni:</strong>
 
- <li>min. 3 dni - 150 PLN/dzień</li>
+ <li> 1-2 osoby 270 PLN/dzień</li>
 
- <li>min. 7 dni - 130 PLN/dzień</li>
+  <li>3-4 osoby 320 PLN/dzień</li>
 
- <li>kaucja zwrotna - 400 PLN</li>
-<li> Ceny zawierają 8% VAT i są cenami za cały apartament, nie od osoby.</li>
 
-<li>Minimalna rezerwacja - 2 dni</li>
+
+ <strong>Przy rezerwacji na min. 3 dni:</strong>
+
+  <li>1-2 osoby 240 PLN/dzień</li>
+
+ <li> 3-4 osoby 290 PLN/dzień</li>
+
+
+
+ <strong> Przy rezerwacji na 7 dni i powyżej:</strong>
+
+ <li> 1-2 osoby 200 PLN/dzień</li>
+
+ <li> 3-4 osoby 250 PLN/dzień</li>
 
 
         </div>
@@ -430,7 +444,7 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
 <div class="copyright_info">
 
-	Copyright © 2014 Heart Of Warsow. All rights reserved.<br>  <a href="#"><img src="images/polska.png"/>	 <a href="esp/solidarnosc.html"><img src="images/espana.png"/></a> <a href="uk/solidarnosc.html"><img src="images/uk.png"/>
+	Copyright © 2014 Heart Of Warsow. All rights reserved.<br>  <a href="../chmielna.html"><img src="../images/polska.png"/>	 <a href="#"><img src="../images/espana.png"/></a> <a href="../uk/chmielna.html"><img src="../images/uk.png"/>
 
 </div><!-- end copyright info -->
 
@@ -442,4 +456,4 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
 </div>
 
-<?php include('partials/footer.php'); ?>
+<?php include('../partials/footer.php'); ?>

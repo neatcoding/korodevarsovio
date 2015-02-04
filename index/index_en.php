@@ -551,7 +551,7 @@ window.status = comment; return true;
 
 </td>
 
-<td> <img src="img/transparent_02.png" alt="" height="1 border="0" width="20"> </td>
+<td> <img src="img/transparent_02.png" alt="" height="1" border="0" width="20"> </td>
 
 <td>
 

@@ -187,7 +187,7 @@
 		<strong>Apartamnent</strong></h2>
 
         <p>Ciasna 10 to wygodny apartament typu studio, idealny dla 1 lub 2 osób, położony na 1. piętrze niewielkiego budynku w najbliższej okolicy Starego Miasta, dobrze skomunikowany z innymi częściami Warszawy. </p><br />
- <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-ciasna-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=4" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a><br />
+ <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-ciasna-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=4" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a><br />
 
     </div><!-- end right -->
 
@@ -274,8 +274,8 @@
             <h4>Drewniana 7</em></h4>
 
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-drewniana-7.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=5" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a></li>
-			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zobacz</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-drewniana-7.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=5" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a></li>
+			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; ver</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
             <p>Drewniana 7 to wygodny apartament typu studio, idealny dla 1,2 lub 3osób, położony na 1. piętrze kamienicy w dzielnicy Powiśle w najbliższej okolicy Starego Miasta, dobrze skomunikowany z innymi częściami Warszawy.</p>
@@ -289,8 +289,8 @@
             <h4>Solidarności 101</h4>
 
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/apartament-solidarnosci-101.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=4010567558;srpos=6" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a></li>
-			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zobacz</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/apartament-solidarnosci-101.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=4010567558;srpos=6" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a></li>
+			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; ver</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
             <p>Solidarności 101 to wygodny apartament typu studio, idealny dla 1 lub 2 osób, usytuowany na 2. piętrze budynku wyposażonego
@@ -304,8 +304,8 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
             <h4>Chmielna 6</em></h4>
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/apartament-chmielna-6.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=2" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a></li>
-			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zobacz</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/apartament-chmielna-6.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=2" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a></li>
+			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; ver</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
             <p>Chmielna 6 to wygodny, 2-pokojowy apartament o powierzchni 56 m2, usytuowany na 3. piętrze (bez windy) przedwojennej kamienicy, w jednej z najbardziej prestiżowych części warszawskiego Śródmieścia.</p>
@@ -319,8 +319,8 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
             <h4>Moniuszki 10</h4>
 
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-moniuszki-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=3" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a></li>
-			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zobacz</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-moniuszki-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=3" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a></li>
+			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; ver</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
             <p>Moniuszki 10 to 2-pokojowy apartament, położony na 8. piętrze budynku z windą, w ścisłym centrum Warszawy, niemal u zbiegu ulic Marszałkowskiej i Świętokrzyskiej. Tuż obok znajduje się stacja metra „Świętokrzyska”.</p>
@@ -407,7 +407,7 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
 <div class="copyright_info">
 
-	Copyright © 2014 Heart Of Warsow. All rights reserved.<br>  <a href="../ciasna.html"><img src="../images/polska.png"/>	 <a href="../esp/ciasna.html"><img src="../images/espana.png"/></a> <a href="#"><img src="../images/uk.png"/>
+	Copyright © 2014 Heart Of Warsow. All rights reserved.<br>  <a href="../ciasna.html"><img src="../images/polska.png"/>	 <a href="#"><img src="../images/espana.png"/></a> <a href="../uk/ciasna.html"><img src="../images/uk.png"/>
 
 </div><!-- end copyright info -->
 
@@ -419,4 +419,4 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
 </div>
 
-<?php include('partials/footer.php'); ?>
+<?php include('../partials/footer.php'); ?>

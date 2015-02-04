@@ -419,4 +419,4 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
 </div>
 
-<?php include('partials/footer.php'); ?>
+<?php include('../partials/footer.php'); ?>

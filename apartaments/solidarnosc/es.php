@@ -91,11 +91,11 @@
 
                    <li><a href="#">Solidarności 101</a></li>
 
-                    <li class="current"><a href="#about">Apartament</a></li>
+                    <li class="current"><a href="#about">Apartamento</a></li>
 
-                    <li><a href="#portfolio">Gallery</a></li>
+                    <li><a href="#portfolio">Fotos</a></li>
 
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#contact">libros</a></li>
 
 
                 </ul>
@@ -132,7 +132,7 @@
 
     	<h2>Multimedia</h2>
 
-        <p>Television with USB and cable tv. Internet with WiFi is also available and it is free of charge</p>
+        <p>Cada apartamento está equipado con acceso a internet y TV con programas básicos.</p>
 
     </div><!-- end section -->
 
@@ -142,9 +142,9 @@
 
         <div class="clearfix"></div>
 
-    	<h2>Equipment</h2>
+    	<h2>Equipo</h2>
 
-        <p>We provide soap, fresh linen and towels..</p>
+        <p>Está provisto de un apartamentos totalmente equipados.</p>
 
     </div><!-- end section -->
 
@@ -154,9 +154,9 @@
 
         <div class="clearfix"></div>
 
-    	<h2>Entertainment</h2>
+    	<h2>Entretenimiento</h2>
 
-        <p> W najbliższej okolicy są między innymi 2 kina (przy czym jedno z bardzo ciekawym repertuarem), oraz teatr.</p>
+        <p> El entorno inmediato son, entre otras cosas, 2 salas de cine (el uno con un repertorio muy interesante), y un teatro.</p>
 
     </div><!-- end section -->
 
@@ -166,9 +166,9 @@
 
         <div class="clearfix"></div>
 
-    	<h2>Location</h2>
+    	<h2>Ubicación</h2>
 
-        <p>One can choose between the underground (station 'Ratusz Arsenal'), buses or trams. </p>
+        <p>Apartamento bien conectado con otras partes de la ciudad. Además del metro, la elección es una gran cantidad de autobuses y tranvías que parten de la plaza bancaria o Al. Juan Pablo II (aprox. 300 m).</p>
 
     </div><!-- end section -->
 
@@ -184,10 +184,11 @@
     <div class="right">
 
         <h2>Solidarności 101
-		<strong>Apartamnent</strong></h2>
+		<strong>Apartamento</strong></h2>
 
-        <p>Solidarnosci 101 is a comfortable studio apartment, perfect for 1 or 2 persons. It is located on the 2nd floor of a building with elevator, at 101 Solidarnosci Avenue, 400 meters from the Bankowy Square and about 15 minutes on foot from the Old Town. It has great connection with other parts of the city. The apartment features 1 room with 2 single beds, equipped kitchenette (refrigerator, gas cooktop with 2 burners, cutlery, crockery, electric kettle), and bathroom fitted with bathtub.</p><br />
- <a href="http://www.booking.com/hotel/pl/apartament-solidarnosci-101.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=4010567558;srpos=6" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a><br />
+        <p>Solidaridad 101 es un confortable apartamento estudio, ideal para 1 o 2 personas, ubicado en el 2do piso de un edificio con
+en el ascensor, en el Al. Solidaridad 101, a unos 400 metros de la plaza del Banco y el Ayuntamiento de la estación de metro de Arsenal y unos 10 minutos a pie del casco antiguo. El apartamento cuenta con 2 camas individuales, una pequeña pero equipada y amueblada cocina, cuarto de baño con ducha, TV con entrada de USB conectado a la televisión por cable, acceso a internet inalámbrico (incluido en el precio). Ofrecemos ropa de cama fresca, toallas y jabón.</p><br />
+ <a href="http://www.booking.com/hotel/pl/apartament-solidarnosci-101.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=4010567558;srpos=6" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a><br />
 
     </div><!-- end right -->
 
@@ -216,7 +217,7 @@
 
     	<div class="portfolio_page">
 
-		<h1>Gallery Solidarności 101</strong>
+		<h1>Fotos Solidarności 101</strong>
         <br />
         </h1>
 
@@ -280,9 +281,9 @@
 
 	<div class="container">
 
-    	<h1><strong>OTHER APARTMENTS</strong>
+    	<h1><strong>Otros apartamentos</strong>
         <br />
-        <i>You are provided with 4 other apartments are located in the Warsaw district of downtown.</i>
+        <i>Está provisto de 4 otros apartamentos están situados en el distrito de la ciudad de Varsovia.</i>
         </h1>
 
         <div class="one_fourth">
@@ -292,11 +293,11 @@
             <h4>Drewniana 7</em></h4>
 
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-drewniana-7.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=5" class="more_but two"><i class="fa fa-globe"></i>&nbsp; book</a></li>
-			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; see</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-drewniana-7.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=5" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a></li>
+			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; ver</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
-            <p>Drewniana 7 is a comfortable studio apartment, ideal for a 1.2 or 3osób, located on the first floor of a building in the district Powiśle in nearby Old Town area, well connected with other parts of Warsaw.</p>
+            <p>Drewniana 7 es un confortable apartamento estudio, ideal para una 3osób 1.2 o, ubicado en el primer piso de un edificio en el distrito Powiśle en la cercana zona de la Ciudad Vieja, bien conectado con otras partes de Varsovia.</p>
 
         </div><!-- end section -->
 
@@ -306,11 +307,11 @@
 
             <h4>Chmielna 6</em></h4>
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/apartament-chmielna-6.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=2" class="more_but two"><i class="fa fa-globe"></i>&nbsp; book</a></li>
-			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; see</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/apartament-chmielna-6.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=2" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a></li>
+			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; ver</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
-            <p>Chmielna 6 is a comfortable, 2-bedroom apartment with an area of ​​56 m2, located on the 3rd floor (no elevator) of pre-war building in one of the most prestigious part of Warsaw's city center.</p>
+            <p>Chmielna 6 es un apartamento confortable de 2 dormitorios con una superficie de 56 m2, ubicado en el 3er piso (sin ascensor) de un edificio antes de la guerra en una de la zona más prestigiosa del centro de la ciudad de Varsovia.</p>
 
         </div><!-- end section -->
 
@@ -321,11 +322,11 @@
             <h4>Moniuszki 10</h4>
 
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-moniuszki-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=3" class="more_but two"><i class="fa fa-globe"></i>&nbsp; book</a></li>
-			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; see</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-moniuszki-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=3" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a></li>
+			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; ver</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
-            <p>Moniuszki 10 is a 2-bedroom apartment, located on the 8th floor of a building with lift, in the center of Warsaw, near the confluence of Marszałkowska and Kielce. Right next to the metro station „Świętokrzyska”.</p>
+            <p>Moniuszko 10 es un apartamento de 2 dormitorios, situado en la octava planta de un edificio con ascensor, en el centro de Varsovia, cerca de la confluencia de Marszałkowska y Kielce. Justo al lado de la estación de metro „Świętokrzyska”.</p>
 
         </div><!-- end section -->
 
@@ -336,11 +337,11 @@
             <h4>Ciasna 10</em></h4>
 
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-ciasna-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=4" class="more_but two"><i class="fa fa-globe"></i>&nbsp; book</a></li>
-			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; see</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-ciasna-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=4" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a></li>
+			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; ver</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
-            <p>Ciasna 10 is a comfortable studio apartment, ideal for 1 or 2 persons, situated on the 1st floor of a small building near the Old Town area, well connected with other parts of Warsaw.</p>
+            <p>Ciasna 10 es un confortable apartamento estudio, ideal para 1 o 2 personas, situado en la primera planta de un pequeño edificio cerca de la zona del casco antiguo, bien conectado con otras partes de Varsovia.</p>
 
         </div><!-- end section -->
 
@@ -365,8 +366,8 @@
 
     	<div class="one_half">
 
-        	<h1>Keep in touch!
-            <i>For reservations outside the booking.com, we invite you to use the data below.</i>
+        	<h1>Mantenerse en contacto!
+            <i>Para libros fuera de la booking.com, le invitamos a utilizar los datos a continuación.</i>
             </h1>
 
             <div class="clearfix"></div>
@@ -406,18 +407,16 @@
 
         <div class="one_half last">
 
-        	<h1>Price</h1>
+        	<h1>Precios</h1>
 
 
-                <li>2 days -180 PLN/day</li>
+                <li>2 días - 180 PLN/día</li>
 
- <li>3-6 days - 150 PLN/day</li>
+<li>3-6 días - 150 PLN/día</li>
 
- <li>7 and more days -130 PLN/day</li>
+<li>7 días y más - 130 PLN/día</li>
 
-<li> The prices are for the whole apartment, not per person and include 8% VAT.</li>
-
-<li>Minimum stay - 2 days</li>
+<li>Estancia mínima - 2 días</li>
 
 
         </div>
@@ -429,7 +428,7 @@
 
 <div class="copyright_info">
 
-	Copyright © 2014 Heart Of Warsow. All rights reserved.<br>  <a href="../solidarnosc.html"><img src="../images/polska.png"/>	 <a href="../esp/solidarnosc.html"><img src="../images/espana.png"/></a> <a href="#"><img src="../images/uk.png"/>
+	Copyright © 2014 Heart Of Warsow. All rights reserved.<br>  <a href="../solidarnosc.html"><img src="../images/polska.png"/>	 <a href="#"><img src="../images/espana.png"/></a> <a href="../uk/solidarnosc.html"><img src="../images/uk.png"/>
 
 </div><!-- end copyright info -->
 
@@ -441,4 +440,4 @@
 
 </div>
 
-<?php include('partials/footer.php'); ?>
+<?php include('../partials/footer.php'); ?>

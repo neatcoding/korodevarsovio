@@ -8,7 +8,7 @@
 
 
 
-	<title>Heart of Warsaw - Moniuszki 10</title>
+	<title>Heart of Warsaw - Chmielna 6</title>
 
 	<meta charset="utf-8">
 	<meta name="keywords" content="" />
@@ -89,7 +89,7 @@
 
                 <ul id="fixed-nav">
 
-                   <li><a href="#">Moniuszki 10</a></li>
+                   <li><a href="#">Chmielna 6</a></li>
 
                     <li class="current"><a href="#about">Apartament</a></li>
 
@@ -168,7 +168,7 @@
 
     	<h2>Lokalizacja</h2>
 
-        <p>Tuż obok znajduje się stacja metra „Świętokrzyska” oraz kilka przystanków autobusowych i tramwajowych. </p>
+        <p>Apartament świetnie skomunikowany z innymi częściami miasta, znajduje się u zbiegu ulic Chmielnej i Nowego Światu.</p>
 
     </div><!-- end section -->
 
@@ -179,16 +179,16 @@
 <div class="joosa features2">
 <div class="container">
 
-	<div class="left"><img src="../images/moniuszki1.jpg" alt="" /></div><!-- end left -->
+	<div class="left"><img src="../images/chmielna1.jpg" alt="" /></div><!-- end left -->
 
     <div class="right">
 
-        <h2>Moniuszki 10
+        <h2>Chmielna 6
 		<strong>Apartamnent</strong></h2>
 
-        <p>Moniuszki 10 to 2-pokojowy apartament, położony na 8. piętrze budynku z windą, w ścisłym centrum Warszawy, niemal u zbiegu ulic Marszałkowskiej i Świętokrzyskiej.
-Apartament posiada dwa podwójne łóżka (jedno z nich to rozkładana kanapa widoczna na zdjęciach), i może pomieścić do czterech osób. Wyposażona kuchnia - meble kuchenne, lodówka, zmywarka, kuchnia z piekarnikiem, sztućce, naczynia, czajnik. Telewizor LCD z wejściem USB, internet z WiFi. Łazienka z WC, wyposażona w wannę i pralkę.</p><br />
- <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-moniuszki-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=3" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a><br />
+        <p>Chmielna 6 to wygodny, 2-pokojowy apartament o powierzchni 56 m2, usytuowany na 3. piętrze (bez windy) przedwojennej kamienicy, w jednej z najbardziej prestiżowych części warszawskiego Śródmieścia.
+		Apartament idealny dla 4 osób - 1 podwójne i 2 pojedyncze łóżka. Wyposażona kuchnia - meble kuchenne, lodówka, kuchnia z piekarnikiem, sztućce, naczynia, czajnik. Tv kablowa, internet z WiFi. W łazience kabina prysznicowa. Apartament wyposażony w 2 toalety. Zapewniamy mydło, świeżą pościel i ręczniki. Okna wychodzą na podwórko, więc, mimo lokalizacji w miejscu pełnym życia, jest cicho i spokojnie.</p><br />
+ <a href="http://www.booking.com/hotel/pl/apartament-chmielna-6.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=2" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a><br />
 
     </div><!-- end right -->
 
@@ -217,7 +217,7 @@ Apartament posiada dwa podwójne łóżka (jedno z nich to rozkładana kanapa wi
 
     	<div class="portfolio_page">
 
-		<h1>Galeria Moniuszki 10</strong>
+		<h1>Galeria Chmielna 6</strong>
         <br />
         </h1>
 
@@ -227,41 +227,42 @@ Apartament posiada dwa podwójne łóżka (jedno z nich to rozkładana kanapa wi
 
         <div class="portfolioContainer">
 
-            <div class="monius">
-                <a class="fancybox" href="../images/moniuszki/1.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/1.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
+            <div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/1.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/1.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
-<div class="monius">
-                <a class="fancybox" href="../images/moniuszki/2.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/2.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
+<div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/2.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/2.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
-<div class="monius">
-                <a class="fancybox" href="../images/moniuszki/3.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/3.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
+<div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/3.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/3.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
-<div class="monius">
-                <a class="fancybox" href="../images/moniuszki/4.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/4.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
+<div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/4.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/4.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
-<div class="monius">
-                <a class="fancybox" href="../images/moniuszki/5.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/5.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
+<div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/5.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/5.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
-<div class="monius">
-                <a class="fancybox" href="../images/moniuszki/6.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/6.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
+<div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/6.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/6.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
-<div class="monius">
-                <a class="fancybox" href="../images/moniuszki/7.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/7.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
+<div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/7.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/7.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
-<div class="monius">
-                <a class="fancybox" href="../images/moniuszki/8.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/8.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
+<div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/8.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/8.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
 
-<div class="monius">
-                <a class="fancybox" href="../images/moniuszki/9.jpg" data-fancybox-group="gallery" title="Moniuszki 10"><div class="imgWrap"><img src="../images/moniuszki/9.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Moniuszki 10</h3></div></a>
+<div class="chmiel">
+                <a class="fancybox" href="../images/chmielna/9.jpg" data-fancybox-group="gallery" title="Chmielna 6"><div class="imgWrap"><img src="../images/chmielna/9.jpg" alt="" /><p class="imgDescription"><i class="fa fa-search fa-4x"></i></p><h3>Chmielna 6</h3></div></a>
             </div>
+
 
 
             </div>
@@ -292,8 +293,8 @@ Apartament posiada dwa podwójne łóżka (jedno z nich to rozkładana kanapa wi
             <h4>Drewniana 7</em></h4>
 
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-drewniana-7.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=5" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a></li>
-			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; ver</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-drewniana-7.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=5" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a></li>
+			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zobacz</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
             <p>Drewniana 7 to wygodny apartament typu studio, idealny dla 1,2 lub 3osób, położony na 1. piętrze kamienicy w dzielnicy Powiśle w najbliższej okolicy Starego Miasta, dobrze skomunikowany z innymi częściami Warszawy.</p>
@@ -307,8 +308,8 @@ Apartament posiada dwa podwójne łóżka (jedno z nich to rozkładana kanapa wi
             <h4>Solidarności 101</h4>
 
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/apartament-solidarnosci-101.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=4010567558;srpos=6" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a></li>
-			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; ver</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/apartament-solidarnosci-101.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=4010567558;srpos=6" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a></li>
+			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zobacz</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
             <p>Solidarności 101 to wygodny apartament typu studio, idealny dla 1 lub 2 osób, usytuowany na 2. piętrze budynku wyposażonego
@@ -316,17 +317,18 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
         </div><!-- end section -->
 
-     <div class="one_fourth">
+        <div class="one_fourth">
 
-        	<img src="../images/chmielna.jpg" alt="" />
+        	<img src="../images/moniuszki.jpg" alt="" />
 
-            <h4>Chmielna 6</em></h4>
+            <h4>Moniuszki 10</h4>
+
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/apartament-chmielna-6.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=2" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a></li>
-			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; ver</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-moniuszki-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=3" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a></li>
+			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zobacz</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
-            <p>Chmielna 6 to wygodny, 2-pokojowy apartament o powierzchni 56 m2, usytuowany na 3. piętrze (bez windy) przedwojennej kamienicy, w jednej z najbardziej prestiżowych części warszawskiego Śródmieścia.</p>
+            <p>Moniuszki 10 to 2-pokojowy apartament, położony na 8. piętrze budynku z windą, w ścisłym centrum Warszawy, niemal u zbiegu ulic Marszałkowskiej i Świętokrzyskiej. Tuż obok znajduje się stacja metra „Świętokrzyska”.</p>
 
         </div><!-- end section -->
 
@@ -337,8 +339,8 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
             <h4>Ciasna 10</em></h4>
 
             <ul class="clearfix mar_top2">
-               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-ciasna-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=4" class="more_but two"><i class="fa fa-globe"></i>&nbsp; libro</a></li>
-			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; ver</a></li>
+               <li> <a href="http://www.booking.com/hotel/pl/heart-of-warsaw-apartament-ciasna-10.pl.html?sid=21431377aed9643061e561ff573c9c77;dcid=1;origin=disamb;srhash=3243848063;srpos=4" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zarezerwuj</a></li>
+			   <li> <a href="#" class="more_but two"><i class="fa fa-globe"></i>&nbsp; zobacz</a></li>
             </ul>
             <div class="clearfix mar_top2"></div>
             <p>Ciasna 10 to wygodny apartament typu studio, idealny dla 1 lub 2 osób, położony na 1. piętrze niewielkiego budynku w najbliższej okolicy Starego Miasta, dobrze skomunikowany z innymi częściami Warszawy.</p>
@@ -394,7 +396,7 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
                 	<div class="map">
 
-                    	<iframe class="google-map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2443.468186650287!2d21.0099469!3d52.234879199999995!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc8b272b1f51%3A0x70aa9d5945c8b779!2sStanis%C5%82awa+Moniuszki+10%2C+Warszawa!5e0!3m2!1spl!2spl!4v1415030836288" width="267" height="200" frameborder="0" style="border:0" width="267" height="200" frameborder="0" style="border:0" width="267" height="200" frameborder="0" style="border:0"></iframe><br /><small><a href="https://www.google.pl/maps/place/Stanis%C5%82awa+Moniuszki+10,+Warszawa/@52.2348792,21.0099469,17z/data=!3m1!4b1!4m2!3m1!1s0x471ecc8b272b1f51:0x70aa9d5945c8b779?hl=pl">Zobacz na mapie</a></small>
+                    	<iframe class="google-map" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2443.565286042944!2d21.0180503!3d52.2331153!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471eccf42dd7f65f%3A0x5beebe5b65d41dc7!2sChmielna+6%2C+Warszawa!5e0!3m2!1spl!2spl!4v1415028342922" width="267" height="200" frameborder="0" style="border:0" width="267" height="200" frameborder="0" style="border:0"></iframe><br /><small><a href="https://www.google.pl/maps/place/Chmielna+6,+Warszawa/@52.2331153,21.0180503,17z/data=!3m1!4b1!4m2!3m1!1s0x471eccf42dd7f65f:0x5beebe5b65d41dc7?hl=pl">Zobacz na mapie</a></small>
 
                     </div>
 
@@ -410,27 +412,27 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
         	<h1>Cennik</h1>
 
 
- <strong>Przy rezerwacji na 2 dni:</strong>
+                <strong>Przy rezerwacji na 2 dni:</strong>
 
-  <li>1-2 osoby 220 PLN/dzień</li>
+ <li> 1-2 osoby 270 PLN/dzień</li>
 
-  <li>3-4 osoby 260 PLN/dzień</li>
+  <li>3-4 osoby 320 PLN/dzień</li>
 
 
 
- <strong> Przy rezerwacji na min. 3 dni:</strong>
+ <strong>Przy rezerwacji na min. 3 dni:</strong>
 
- <li> 1-2 osoby 190 PLN/dzień</li>
+  <li>1-2 osoby 240 PLN/dzień</li>
 
- <li> 3-4 osoby 230 PLN/dzień</li>
+ <li> 3-4 osoby 290 PLN/dzień</li>
 
 
 
  <strong> Przy rezerwacji na 7 dni i powyżej:</strong>
 
- <li> 1-2 osoby 160 PLN/dzień</li>
+ <li> 1-2 osoby 200 PLN/dzień</li>
 
-  <li>3-4 osoby 200 PLN/dzień</li>
+ <li> 3-4 osoby 250 PLN/dzień</li>
 
 
         </div>
@@ -442,7 +444,7 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
 <div class="copyright_info">
 
-	Copyright © 2014 Heart Of Warsow. All rights reserved.<br>  <a href="../moniuszki.html"><img src="../images/polska.png"/>	 <a href="#"><img src="../images/espana.png"/></a> <a href="../uk/moniuszki.html"><img src="../images/uk.png"/>
+	Copyright © 2014 Heart Of Warsow. All rights reserved.<br>  <a href="../chmielna.html"><img src="../images/polska.png"/>	 <a href="../esp/chmielna.html"><img src="../images/espana.png"/></a> <a href="#"><img src="../images/uk.png"/>
 
 </div><!-- end copyright info -->
 
@@ -454,4 +456,4 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
 
 </div>
 
-<?php include('partials/footer.php'); ?>
+<?php include('../partials/footer.php'); ?>
