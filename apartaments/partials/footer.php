@@ -1,3 +1,19 @@
+<div class="copyright_info">
+
+    Copyright © 2014 Heart Of Warsaw. All rights reserved.<br>
+    <a href="."><img src="images/polska.png"/></a>
+        <a href="./es"><img src="images/espana.png"/></a>
+        <a href="./en"><img src="images/uk.png"/></a>
+
+</div><!-- end copyright info -->
+
+</div>
+</div><!-- end contact -->
+
+<a href="#" class="scrollup">Scroll</a><!-- end scroll to top of the page-->
+
+
+</div>
 
 <!-- ######### JS FILES ######### -->
 <!-- get jQuery from the google apis -->

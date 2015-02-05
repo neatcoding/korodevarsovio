@@ -80,7 +80,7 @@
      <div class="container">
 
 		<!-- Logo -->
-		<div class="one_fourth"><a href="index.html" id="logo"></a></div>
+		<div class="one_fourth"><a href="../../index" id="logo"></a></div>
 
         <!-- Menu -->
         <div class="three_fourth last">
@@ -401,21 +401,6 @@ w windę, przy Al. Solidarności 101, około 400 m od Placu Bankowego oraz stacj
         </div>
 
     </div>
-
-</div>
-
-
-<div class="copyright_info">
-
-	Copyright © 2014 Heart Of Warsow. All rights reserved.<br>  <a href="../ciasna.html"><img src="../images/polska.png"/>	 <a href="../esp/ciasna.html"><img src="../images/espana.png"/></a> <a href="#"><img src="../images/uk.png"/>
-
-</div><!-- end copyright info -->
-
-</div>
-</div><!-- end contact -->
-
-<a href="#" class="scrollup">Scroll</a><!-- end scroll to top of the page-->
-
 
 </div>
 

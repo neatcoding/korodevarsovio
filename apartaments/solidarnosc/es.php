@@ -80,7 +80,7 @@
      <div class="container">
 
 		<!-- Logo -->
-		<div class="one_fourth"><a href="index.html" id="logo"></a></div>
+		<div class="one_fourth"><a href="../../index" id="logo"></a></div>
 
         <!-- Menu -->
         <div class="three_fourth last">
@@ -422,21 +422,6 @@ en el ascensor, en el Al. Solidaridad 101, a unos 400 metros de la plaza del Ban
         </div>
 
     </div>
-
-</div>
-
-
-<div class="copyright_info">
-
-	Copyright © 2014 Heart Of Warsow. All rights reserved.<br>  <a href="../solidarnosc.html"><img src="../images/polska.png"/>	 <a href="#"><img src="../images/espana.png"/></a> <a href="../uk/solidarnosc.html"><img src="../images/uk.png"/>
-
-</div><!-- end copyright info -->
-
-</div>
-</div><!-- end contact -->
-
-<a href="#" class="scrollup">Scroll</a><!-- end scroll to top of the page-->
-
 
 </div>
 
